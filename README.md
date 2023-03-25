@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+``` JavaScript
+while(Coffee){
+   Code;
+   if(!Coffee){
+      Coffee.refill();
+      continue;
+   }
+}
+return Excellence
+```
+
+
 ### :man_technologist: Find me here! :
 <div id="badges" align = "center">
   <a href="">
